@@ -1,5 +1,3 @@
-> The example repository is maintained from a [monorepo](https://github.com/nextauthjs/next-auth/tree/main/apps/examples/nextjs). Pull Requests should be opened against [`nextauthjs/next-auth`](https://github.com/nextauthjs/next-auth).
-
 <p align="center">
    <br/>
    <a href="https://authjs.dev" target="_blank"><img width="150px" src="https://authjs.dev/img/logo-sm.png" /></a>
@@ -33,7 +31,7 @@ The deployed version can be found at [`next-auth-example.vercel.app`](https://ne
 
 ### About NextAuth.js
 
-NextAuth.js is an easy to implement, full-stack (client/server) open source authentication library originally designed for [Next.js](https://nextjs.org) and [Serverless](https://vercel.com). Our goal is to [support even more frameworks](https://github.com/nextauthjs/next-auth/issues/2294) in the future.
+NextAuth.js is an easy to implement, full-stack (client/server) open source authentication library originally designed for [Next.js](https://nextjs.org) and [Serverless](https://vercel.com).
 
 Go to [next-auth.js.org](https://authjs.dev) for more information and documentation.
 
@@ -44,7 +42,7 @@ Go to [next-auth.js.org](https://authjs.dev) for more information and documentat
 ### 1. Clone the repository and install dependencies
 
 ```
-git clone https://github.com/nextauthjs/next-auth-example.git
+git clone https://github.com/manueliazme98me/next-auth-example-main.git
 cd next-auth-example
 pnpm install
 ```
